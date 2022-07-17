@@ -1,0 +1,2 @@
+page with thumbnails of art projects that
+when clicked bring user to page with higher resolution image and description of project
