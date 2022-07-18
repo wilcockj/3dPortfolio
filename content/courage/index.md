@@ -1,6 +1,6 @@
 ---
 title: "Middle of Nowhere Render"
-date: 2022-07-17T10:50:48-07:00
+date: 2022-07-06T10:50:48-07:00
 draft: false
 tags: ['images','cartooon']
 ---
