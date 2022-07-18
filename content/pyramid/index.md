@@ -1,6 +1,7 @@
 ---
-title: "Pyramid"
+title: "Pyramid Render"
 date: 2022-07-17T21:11:03-07:00
+tags: ["images"]
 ---
 Render of pyramid environment
 
