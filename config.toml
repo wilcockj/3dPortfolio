@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'James Portfolio'
-theme = 'lugo'
+theme = ["hugo-video",'lugo']
