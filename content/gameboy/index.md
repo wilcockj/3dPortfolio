@@ -6,5 +6,5 @@ tags: ['cartoon','video']
 Gameboy cartridge with sitcker stylized for friends 
 album visualization.
 ![Gameboy Cartridge render](/gameboystatic.png)
-{{< video src="gameboylowres" >}}
+{{< video src="gameboylowres" autoplay="true" loop="true">}}
 {{< pdf >}}
