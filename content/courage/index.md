@@ -7,7 +7,7 @@ tags: ['images','cartooon']
 Render of the house/farm from the cartoon Courage
 the Cowardly Dog
 
-![Courage render](/couragerender.png)
+![Courage render](/couragerender.webp)
 
 Ground texture was a real life photo taken from the Painted Hills
 in Oregon. 
