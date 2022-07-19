@@ -8,3 +8,20 @@ album visualization.
 ![Gameboy Cartridge render](/gameboystatic.png)
 {{< video src="gameboylowres" autoplay="true" loop="true">}}
 {{< pdf >}}
+
+Using a very scaled down noise texture combined with 
+
+![Gameboy noise](/gbcartnoise.png)
+
+This noise texture was used to control the materials roughness,
+the black spots being very shiny resulting in the glitter effect.
+
+![Gameboy Shiny](/gbcartshiny.webp)
+
+Blender node setup of material
+
+![Cartridge material Node setup](/gbcartnodes.png)
+
+Used reference material
+
+![Gameboy ref](/gbgold.jpg)
