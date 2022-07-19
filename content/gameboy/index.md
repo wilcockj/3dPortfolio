@@ -9,7 +9,8 @@ album visualization.
 {{< video src="gameboylowres" autoplay="true" loop="true">}}
 {{< pdf >}}
 
-Using a very scaled down noise texture combined with 
+# Material Breakdown
+Noise texture used to make glitter spots on cartridge.
 
 ![Gameboy noise](/gbcartnoise.png)
 
