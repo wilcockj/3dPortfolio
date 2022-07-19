@@ -2,7 +2,7 @@
 title: "Middle of Nowhere Render"
 date: 2022-07-06T10:50:48-07:00
 draft: false
-tags: ['images','cartooon']
+tags: ['images','cartoon']
 ---
 Render of the house/farm from the cartoon Courage
 the Cowardly Dog
