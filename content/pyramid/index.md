@@ -35,7 +35,7 @@ is pointing in order to make somewhat convincing depth.
 
 ![desert normal map](/desertnormalmap.png)
 
-This gif illustrates what normal maps are doing, the left being modeled shapes, and
+This gif made by [Pac72](https://commons.wikimedia.org/wiki/File:Rendering_with_normal_mapping.gif) illustrates what normal maps are doing, the left being modeled shapes, and
 the right being normals maps generated from the models on  the left. This shows
 how you can fake geometry with normal maps. Normal maps are very useful for speeding
 up the rendering of complex scenes. For example, Video Game graphics where many 
@@ -46,3 +46,8 @@ frames need to be rendered every second.
 When all is combined with a sand color, this is what we get.
 
 ![Final desert](/finaldesert.png)
+
+
+Final node tree 
+
+![Desert Node tree](desertnodetree.png)
