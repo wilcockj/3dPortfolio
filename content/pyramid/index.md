@@ -14,7 +14,7 @@ Render of mars-like desert pyramid.
 
 # Material Breakdown
 
-Here I used the ocean modifer to create the dunes
+Here I used the [ocean](https://docs.blender.org/manual/en/latest/modeling/modifiers/physics/ocean.html) modifer to create the dunes
 
 ![desert wireframe](/desertwireframe.png)
 
@@ -38,7 +38,7 @@ is pointing in order to make somewhat convincing depth.
 This gif made by [Pac72](https://commons.wikimedia.org/wiki/File:Rendering_with_normal_mapping.gif) illustrates what normal maps are doing, the left being modeled shapes, and
 the right being normals maps generated from the models on  the left. This shows
 how you can fake geometry with normal maps. Normal maps are very useful for speeding
-up the rendering of complex scenes. For example, Video Game graphics where many 
+up the rendering of complex scenes. For example, in Video Games, where many 
 frames need to be rendered every second.
 
 ![normal map gif](/normalmap.gif)
