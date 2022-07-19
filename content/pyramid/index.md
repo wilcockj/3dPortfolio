@@ -50,4 +50,4 @@ When all is combined with a sand color, this is what we get.
 
 Final node tree 
 
-![Desert Node tree](desertnodetree.png)
+![Desert Node tree](/desertnodetree.png)
