@@ -1,4 +1,4 @@
 baseURL = 'https://wilcockj.xyz/'
 languageCode = 'en-us'
-title = 'James Portfolio'
+title = '''James Wilcock's Art Portfolio'''
 theme = ["hugo-video",'lugo']
