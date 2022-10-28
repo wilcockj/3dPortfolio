@@ -9,3 +9,5 @@ tags: ['images','AI']
 
 
 {{< video src="aiplanets" autoplay="true" loop="true">}}
+{{< video src="planetimpact" autoplay="true" loop="true">}}
+{{< video src="vangoghdog" autoplay="true" loop="true">}}
