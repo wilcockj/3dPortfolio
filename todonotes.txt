@@ -1,1 +1,2 @@
 Want to add page with stuff from github.io portfolio
+Gallery with many pictures of renders that link to posts about them

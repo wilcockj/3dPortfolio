@@ -1,3 +1,3 @@
 hugo
-rsync -rtvzP public/ root@wilcockj.xyz:/var/www/wilcockj --delete
+rsync -rtvzP public/ jamesw@ssh.swiftnotes.net:/var/www/wilcockj --delete
 
